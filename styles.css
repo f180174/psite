@@ -1,0 +1,137 @@
+/* Navbar Section */
+#nav-bar{
+height: 70px;
+width: 150px;
+}
+.navbar-brand1{
+    font-size: 3rem;
+    
+   
+}
+
+.navbar-collapse{
+    margin-right: 50px;;
+}
+.nav-link{
+    font-size: 1.5rem;
+    
+}
+
+/* Home Section */
+#home{
+    background-color: #63b7af;
+    padding-top: 200px;
+    padding-bottom: 220px;;
+}
+.home-text{
+    text-align: center;
+   
+}
+.home-h1{
+ 
+    color: pink;
+    font-style: italic;
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 50px;
+}
+.home-h2{
+    color: pink;
+    font-style: italic;
+
+}
+.btn-lg1{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    background-color:#63b7af;
+    padding: 0 16px 0 16px;
+}
+/* About me */
+#about-me{
+    background-color: #dcdcdc;
+    padding: 10% 30%;
+    text-align: center;
+}
+
+.about-p{
+    margin-top: 50px;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    
+}
+.about-pic{
+    width: 50%;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+.about-h1{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+/* Projects */
+#projects{
+    padding: 7% 15%;
+}
+.projects-h1{
+    text-align: center;
+    color: pink;
+    font-size: 2.5rem;
+    line-height: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.projects-h3{
+    text-align: center;
+    color: pink;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-top: 40px;
+}
+.project-p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+    margin-top: 30px;
+    
+
+}
+.project-row{
+    margin-top: 50px;
+    
+}
+.btnProject{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    padding: 0 16px 0 16px;
+} 
+ .fa-bootstrap,.fa-js-square{
+     color:#4c6ef5;
+ }
+ .projects-h3-1{
+    text-align: center;
+    color: pink;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-top: 80px;
+    margin-bottom: 40px;
+ }
+ .fa-html5{
+    color:#4c6ef5;
+ }
+ /* Contact */
+ .contact{
+     padding: 3rem 1rem;
+     background-color:#63b7af;
+     /* background-color: steelblue; */
+     text-align: center;
+ }
+.contact-h3{
+    color: white;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+ .fa-margin{
+     margin-right: 30px;;
+ }
+ 
